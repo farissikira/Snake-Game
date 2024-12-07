@@ -19,3 +19,5 @@ The goal is to collect as amny as possible apples while avoiding to touch the bo
 ## __Example of the Snake game__
 
 ![](https://github.com/farissikira/Snake-Game/blob/5bf394e7a8c5dfe64322dc0b7f95d215faeda784/sankepic1.JPG)
+
+![](https://github.com/farissikira/Snake-Game/blob/2eb083689eaa71aa73935fd21984fbbbb396db3b/sankepic2.JPG)
